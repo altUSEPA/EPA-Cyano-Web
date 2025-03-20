@@ -5,7 +5,7 @@ Flask==2.3.2
 Flask-Cors==4.0.0
 Flask-Migrate==4.0.4
 Flask-RESTful==0.3.10
-Flask-SQLAlchemy==3.0.5
+Flask-SQLAlchemy==3.1.1
 mysqlclient==2.2.0
 mysql-connector-python==8.0.33
 PyJWT==2.7.0
