@@ -12,4 +12,4 @@ PyJWT==2.7.0
 python-dotenv==1.0.0
 redis==4.6.0
 requests==2.31.0
-simplejson==3.19.1
+simplejson==3.20.1
