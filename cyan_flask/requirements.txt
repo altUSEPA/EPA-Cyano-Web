@@ -9,7 +9,7 @@ Flask-SQLAlchemy==3.0.5
 mysqlclient==2.2.0
 mysql-connector-python==8.0.33
 PyJWT==2.7.0
-python-dotenv==1.0.0
+python-dotenv==1.2.1
 redis==4.6.0
 requests==2.31.0
 simplejson==3.19.1
